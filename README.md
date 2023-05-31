@@ -17,11 +17,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 ## Snake Eat My Contribution
 ![snake gif](https://github.com/AISoltani/AISoltani/blob/output/github-contribution-grid-snake-dark.svg)
 ### 🔝 Top Contributed Repo
