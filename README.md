@@ -18,12 +18,12 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 ## Snake Eat My Contribution
-![snake gif](https://github.com/AISoltani/AISoltani/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/AISoltani/AISoltani/blob/output/github-contribution-grid-snake-dark.svg)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AISoltani&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
