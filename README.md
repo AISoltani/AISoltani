@@ -10,11 +10,13 @@ Have you not heard? The LORD is the everlasting God, the Creator of the ends of 
 
 Well I possess the powerfull knowledge of AI, AI is beautiful and the art of using it is more beautiful.
 My working fields are ML, Deep Learning, Vision and PR. I recently working more on robust vision Applications.
+ 
+Together, let's shape a AI landscape that radiates with wonder and awe!
   
-<img align="right" width="400" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" />
+<img align="center" width="400" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" />
 <p>
   
-Together, let's shape a AI landscape that radiates with wonder and awe!
+
 </p>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SkyCaptainess.SkyCaptainess" />
 <!--   <img src="https://komarev.com/ghpvc/?username=SkyCaptainess&style=flat-square&color=blue" alt="" align="center"/> -->
