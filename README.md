@@ -63,7 +63,10 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
   </p>
 
 <br/>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AISoltani/AISoltani/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AISoltani/AISoltani/output/github-contribution-grid-snake.svg">
+</picture>
 
 <h1 font-weight="bold">📊 My Github Stats 🏆</h1>
 
