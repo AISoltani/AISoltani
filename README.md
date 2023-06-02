@@ -8,7 +8,8 @@
 <p>
 Have you not heard? The LORD is the everlasting God, the Creator of the ends of the earth. He will not grow tired or weary, and his understanding no one can fathom. He gives strength to the weary and increases the power of the weak.
 
-Well I possess the powerfull knowledge of AI, AI is beautiful and the art of using it is more beautiful, My working fields are ML, Deep Learning, Vision and PR. I recently working more on robust vision Applications.
+Well I possess the powerfull knowledge of AI, AI is beautiful and the art of using it is more beautiful.
+My working fields are ML, Deep Learning, Vision and PR. I recently working more on robust vision Applications.
   
 </p>
 <img align="right" width="400" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" />
