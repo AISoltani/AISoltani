@@ -4,7 +4,7 @@
 
 
 <h1>💫 About Me:</h1>
-<img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
+<img align="right" width="400" src="https://github.com/AISoltani/AISoltani/blob/main/.github/workflows/as2.gif" />
 <p>
 Have you not heard? The LORD is the everlasting God, the Creator of the ends of the earth. He will not grow tired or weary, and his understanding no one can fathom. He gives strength to the weary and increases the power of the weak.
 
