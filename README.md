@@ -77,11 +77,11 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 ![snake gif](https://github.com/AISoltani/AISoltani/blob/output/github-contribution-grid-snake-dark.svg)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AISoltani&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amir-soltani-79838684/) 
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amir-soltani-79838684/) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AISoltani&icon=0&color=0)](https://visitcount.itsvg.in)
