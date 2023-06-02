@@ -78,7 +78,7 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
   </a>
 
   <a href="https://git.io/streak-stats">
-    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=AISoltani&theme=dark" alt="GitHub Streak">
+    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=AISoltani&theme=radical" alt="GitHub Streak">
   </a>
 </div>
 <br/>
