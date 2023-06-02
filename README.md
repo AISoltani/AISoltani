@@ -14,7 +14,10 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 Together, let's shape a AI landscape that radiates with wonder and awe!
   
 <img align="right" width="400" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" />
+<p>
+  
 
+</p>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SkyCaptainess.SkyCaptainess" />
 <!--   <img src="https://komarev.com/ghpvc/?username=SkyCaptainess&style=flat-square&color=blue" alt="" align="center"/> -->
 <h2 align="center"></h2>
@@ -26,7 +29,7 @@ Together, let's shape a AI landscape that radiates with wonder and awe!
 
 <h2 font-weight="bold">🏅 Strengths Skills 🎩</h2>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,aiscript,pytorch,arduino,c,cpp,matlab,photoshop,processing" width="60%">
-<img src="https://skillicons.dev/icons?i=ai,azure,bash,linux,git,androidstudio,qt,stackoverflow,visualstudio,wordpress" width="100%">
+<img src="https://skillicons.dev/icons?i=ai,azure,bash,linux,git,androidstudio,qt,stackoverflow,visualstudio,wordpress" width="60%">
   <br/>
 
 
