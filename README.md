@@ -97,7 +97,7 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="Bruna-pic" height="200" style="border-radius:70px;"
+  <img align="right" alt="Bruna-pic" height="200" style="border-radius:50px;"
     src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/sdasdasdsad.png">
  </div>
 
