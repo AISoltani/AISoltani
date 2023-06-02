@@ -4,7 +4,7 @@
 
 
 <h1>💫 About Me:</h1>
-<img align="right" width="3500" src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/as2.gif" />
+<img align="right" width="350" src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/as2.gif" />
 <p>
 Have you not heard? The LORD is the everlasting God, the Creator of the ends of the earth. He will not grow tired or weary, and his understanding no one can fathom. He gives strength to the weary and increases the power of the weak.
 
