@@ -122,13 +122,10 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 <!--   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> -->
-  <a href="https://discord.com/users/1027321449784029214">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://join.skype.com/invite/xFblvPXgmTM8" target="_blank">
+  <a href="https://join.skype.com/invite/Ec9f75iUsYvn" target="_blank">
     <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
   </a>
-<!--   <a href="https://t.me">
+   <a href="https://t.me/Kamali_ar">
     <img src="https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a> -->
 </p>
