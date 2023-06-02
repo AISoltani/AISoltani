@@ -13,7 +13,7 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
  
 Together, let's shape a AI landscape that radiates with wonder and awe!
   
-<img align="center" width="400" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" />
+<img align="right" width="400" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" />
 <p>
   
 
