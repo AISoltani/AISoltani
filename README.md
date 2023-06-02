@@ -68,13 +68,13 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 <h1 font-weight="bold">📊 My Github Stats 🏆</h1>
 
 <div align='center'>
-  <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AISoltani&layout=compact&langs_count=7&theme=dark">
+  <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AISoltani&layout=compact&langs_count=7&theme=radical">
   <a href="#">
-    <img  src="https://github-profile-trophy.vercel.app/?username=AISoltani&theme=darkhub&row=1&column=6" alt="trophy">
+    <img  src="https://github-profile-trophy.vercel.app/?username=AISoltani&theme=radical&row=1&column=6" alt="trophy">
   </a>
   <br/>
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&preferLogin=false">
-    <img height="150em" alt="AISoltani's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AISoltani?cardType=level&theme=dark&preferLogin=false" />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=radical&preferLogin=false">
+    <img height="150em" alt="AISoltani's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AISoltani?cardType=level&theme=radical&preferLogin=false" />
   </a>
 
   <a href="https://git.io/streak-stats">
