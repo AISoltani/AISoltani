@@ -26,8 +26,6 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 <img src="https://skillicons.dev/icons?i=ai,azure,bash,linux,git,androidstudio,qt,stackoverflow,visualstudio,wordpress" width="60%">
   <br/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amir-soltani-79838684/) 
 
 # 💻 Tech Stack:
 
@@ -82,6 +80,8 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amir-soltani-79838684/) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AISoltani&icon=0&color=0)](https://visitcount.itsvg.in)
