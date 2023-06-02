@@ -98,12 +98,12 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 
 <div style="display: inline_block"><br>
   <img align="right" alt="Bruna-pic" height="150" style="border-radius:50px;"
-    src="https://media.discordapp.net/attachments/903018166219866122/982029010697609296/unknown.png">
+    src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/asdsadasd.png">
  </div>
 
   
   
-  https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/asdsadasd.png
+  
  
 
 <h1 font-weight="bold">
