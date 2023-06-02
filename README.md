@@ -14,9 +14,8 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 </p>
 <img align="right" width="400" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" />
 <p>
-Step into the magical realm of my portfolio, where you'll witness the spells I've cast and the captivating wonders I've crafted. Whether you seek a magical collaboration, wish to unlock the secrets of the digital universe, or simply desire to connect with a kindred spirit, I eagerly await your presence!
   
-Together, let's shape a digital landscape that radiates with wonder and awe!
+Together, let's shape a AI landscape that radiates with wonder and awe!
 </p>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SkyCaptainess.SkyCaptainess" />
 <!--   <img src="https://komarev.com/ghpvc/?username=SkyCaptainess&style=flat-square&color=blue" alt="" align="center"/> -->
