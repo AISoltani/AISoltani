@@ -1,15 +1,14 @@
 <h2 align="center" font-weight="bold">
 🔭 I’m working on object detection and segmentation <br>🤝 I’m looking for help with AI Projects<br>🌱 I’m currently learning Advanced Deep feature extraction on YOLO<br>💬 Ask me about ML, Machine Vision, Deep Learning, Pattern Recognition, ...<br>⚡ Fun fact is IAMAI
-Have you not heard? The LORD is the everlasting God, the Creator of the ends of the earth. He will not grow tired or weary, and his understanding no one can fathom. He gives strength to the weary and increases the power of the weak.
 </h2>
 
 
 <h1>💫 About Me:</h1>
 <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
 <p>
-With a wave of my code-infused wand, I breathe life into captivating user interfaces, conjuring immersive experiences that transcend the ordinary. As a maestro of frontend sorcery, I command the languages of HTML, CSS, and JavaScript with virtuosity, while harnessing the enchanting powers of React, Vue, Angular, Tailwind, Sass, Typescript and more.
+Have you not heard? The LORD is the everlasting God, the Creator of the ends of the earth. He will not grow tired or weary, and his understanding no one can fathom. He gives strength to the weary and increases the power of the weak.
 
-But my sorcery doesn't end there! I possess the mystical knowledge of backend alchemy, wielding the potent forces of Node.js, Express, Django, Ruby on Rails, Laravel, and more. With these powers, I create robust functionalities and seamless interactions that leave users mesmerized.
+Well I possess the powerfull knowledge of AI, AI is beautiful and the art of using it is more beautiful, My working fields are ML, Deep Learning, Vision and PR. I recently working more on robust vision Applications.
   
 </p>
 <img align="right" width="400" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" />
