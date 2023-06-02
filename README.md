@@ -62,28 +62,70 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
     <img height='25em' src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   </p>
 
+<br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AISoltani&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AISoltani&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AISoltani&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AISoltani&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<h1 font-weight="bold">📊 My Github Stats 🏆</h1>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-## Snake Eat My Contribution
-![snake gif](https://github.com/AISoltani/AISoltani/blob/output/github-contribution-grid-snake-dark.svg)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AISoltani&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amir-soltani-79838684/) 
+<div align='center'>
+  <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AISoltani&layout=compact&langs_count=7&theme=dark">
+  <a href="#">
+    <img  src="https://github-profile-trophy.vercel.app/?username=AISoltani&theme=darkhub&row=1&column=6" alt="trophy">
+  </a>
+  <br/>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&preferLogin=false">
+    <img height="150em" alt="AISoltani's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AISoltani?cardType=level&theme=dark&preferLogin=false" />
+  </a>
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+  <a href="https://git.io/streak-stats">
+    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=AISoltani&theme=dark" alt="GitHub Streak">
+  </a>
+</div>
+<br/>
+<details>
+   <summary><h3><b>:rocket: &nbsp;Github stats Detailed</b></h3></summary>
+   </br>
+    <div align='center'>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AISoltani&theme=dark" alt="Profile Details">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AISoltani&theme=dark" alt="Repos per Language">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AISoltani&theme=dark" alt="Most Commit Language">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AISoltani&theme=dark" alt="Stats">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AISoltani&theme=dark&utcOffset=8" alt="Productive Time">
+    </div>
+   </br>
+</details>
 
----
-[![](https://visitcount.itsvg.in/api?id=AISoltani&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div style="display: inline_block"><br>
+  <img align="right" alt="Bruna-pic" height="150" style="border-radius:50px;"
+    src="https://media.discordapp.net/attachments/903018166219866122/982029010697609296/unknown.png">
+ </div>
+
+  
+  
+  
+ 
+
+<h1 font-weight="bold">
+  📮 How to reach me
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
+</h1>
+
+<p align='center'>
+  <a href="mailto:andychris9474@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+<!--   <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a> -->
+  <a href="https://discord.com/users/1027321449784029214">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://join.skype.com/invite/xFblvPXgmTM8" target="_blank">
+    <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
+  </a>
+<!--   <a href="https://t.me">
+    <img src="https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a> -->
+</p>
+ 
