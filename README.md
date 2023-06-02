@@ -127,6 +127,6 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
   </a>
    <a href="https://t.me/Kamali_ar">
     <img src="https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a> -->
+  </a>
 </p>
  
