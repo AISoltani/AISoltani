@@ -28,8 +28,8 @@ Together, let's shape a AI landscape that radiates with wonder and awe!
 </h1>
 
 <h2 font-weight="bold">🏅 Strengths Skills 🎩</h2>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,aiscript,pytorch,arduino,figma,androidstudio,materialui,ai,photoshop" width="100%">
-<img src="https://skillicons.dev/icons?i=azure,bash,linux,php,androidstudio,redux,laravel,mysql,mongodb,postgresql" width="100%">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,aiscript,pytorch,arduino,c,cpp,matlab,photoshop,processing" width="100%">
+<img src="https://skillicons.dev/icons?i=ai,azure,bash,linux,git,androidstudio,qt,stackoverflow,visualstudio,wordpress" width="100%">
   <br/>
 
 
