@@ -28,7 +28,7 @@ Together, let's shape a AI landscape that radiates with wonder and awe!
 </h1>
 
 <h2 font-weight="bold">🏅 Strengths Skills 🎩</h2>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pycharm,pytorch,tailwind,figma,sass,materialui,ai,photoshop" width="100%">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,pytorch,tailwind,figma,androidstudio,materialui,ai,photoshop" width="100%">
 <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,php,androidstudio,redux,laravel,mysql,mongodb,postgresql" width="100%">
   <br/>
 
