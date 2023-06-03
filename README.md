@@ -23,12 +23,10 @@ Together, let's shape a AI landscape that radiates with wonder and awe!
   🌟 My Skills  
 <img  width="30" alt="tools"   src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" />
 </h1>
-<h2 font-weight="bold">🏅 Strengths Skills 🎩</h2>
 A programming language is for thinking about programs, not for expressing programs you've already thought of. It should be a pencil, not a pen.
-<ul>
-<li>Line 1</li>
-<li>Line 2</li>
-</ul>
+<br/>
+<h2 font-weight="bold">🏅 Strengths Skills 🎩</h2>
+
 <img src="https://skillicons.dev/icons?i=python,tensorflow,aiscript,pytorch,arduino,c,cpp,matlab,photoshop,processing" width="100%">
 <img src="https://skillicons.dev/icons?i=ai,azure,bash,linux,git,androidstudio,qt,stackoverflow,visualstudio,wordpress" width="100%">
   <br/>
