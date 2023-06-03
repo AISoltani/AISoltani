@@ -35,7 +35,6 @@ Knowledge is not skill. Knowledge plus ten thousand times is skill. Go ahead, Th
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,aiscript,pytorch,arduino,c,cpp,matlab,photoshop,processing" width="100%">
 <img src="https://skillicons.dev/icons?i=ai,azure,bash,linux,git,androidstudio,qt,stackoverflow,visualstudio,wordpress" width="100%">
-  <br/>
 
 
 # 💻 Tech Stack:
