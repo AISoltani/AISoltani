@@ -11,7 +11,9 @@ Have you not heard? The LORD is the everlasting God, the Creator of the ends of 
 Well I possess the powerfull knowledge of AI, AI is beautiful and the art of using it is more beautiful.
 My working fields are ML, Deep Learning, Vision and PR. I recently working more on robust vision Applications.
   
-  Together, let's shape a AI landscape that radiates with wonder and awe!
+A programming language is for thinking about programs, not for expressing programs you've already thought of. It should be a pencil, not a pen, Together, let's shape a AI landscape that radiates with wonder and awe!
+  
+ 
   
 <img align="right" width="350" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" />
 <p>
