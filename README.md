@@ -115,7 +115,7 @@ Knowledge is not skill. Knowledge plus ten thousand times is skill. Go ahead, Th
 
 <div style="display: inline_block"><br>
   <img align="right" alt="Bruna-pic" height="200" style="border-radius:50px;"
-    src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/sdasdasdsad.png">
+    src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/final.png">
  </div>
 
   
