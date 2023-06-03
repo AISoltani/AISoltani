@@ -28,7 +28,7 @@ A programming language is for thinking about programs, not for expressing progra
 
 
 
-
+  <br/>
   <br/>
   <br/>
 <h2 font-weight="bold">🏅 Strengths Skills 🎩</h2>
