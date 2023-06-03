@@ -61,7 +61,9 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
     <img height='25em' src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     <img height='25em' src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   </p>
-
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SkyCaptainess.SkyCaptainess" />
+<!--   <img src="https://komarev.com/ghpvc/?username=SkyCaptainess&style=flat-square&color=blue" alt="" align="center"/> -->
+<h2 align="center"></h2>
 <br/>
 <h3>Let's play</h3>  
 <picture>
@@ -70,10 +72,6 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 </picture>
 
 <h1 font-weight="bold">📊 My Github Stats 🏆</h1>
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SkyCaptainess.SkyCaptainess" />
-<!--   <img src="https://komarev.com/ghpvc/?username=SkyCaptainess&style=flat-square&color=blue" alt="" align="center"/> -->
-<h2 align="center"></h2>
 
 <div align='center'>
   <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AISoltani&layout=compact&langs_count=7&theme=radical">
