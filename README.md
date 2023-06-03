@@ -25,7 +25,6 @@ Together, let's shape a AI landscape that radiates with wonder and awe!
 </h1>
 <h2 font-weight="bold">🏅 Strengths Skills 🎩</h2>
 A programming language is for thinking about programs, not for expressing programs you've already thought of. It should be a pencil, not a pen.
-<p>
 <br/>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,aiscript,pytorch,arduino,c,cpp,matlab,photoshop,processing" width="100%">
 <img src="https://skillicons.dev/icons?i=ai,azure,bash,linux,git,androidstudio,qt,stackoverflow,visualstudio,wordpress" width="100%">
