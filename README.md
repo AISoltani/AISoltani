@@ -71,6 +71,10 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 
 <h1 font-weight="bold">📊 My Github Stats 🏆</h1>
 
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SkyCaptainess.SkyCaptainess" />
+<!--   <img src="https://komarev.com/ghpvc/?username=SkyCaptainess&style=flat-square&color=blue" alt="" align="center"/> -->
+<h2 align="center"></h2>
+
 <div align='center'>
   <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AISoltani&layout=compact&langs_count=7&theme=radical">
   <a href="#">
