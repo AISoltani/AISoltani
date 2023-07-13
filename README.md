@@ -112,10 +112,14 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 </details>
 
 <h3>🧰️ Lastest Project: AI Fitness Fat-Loss Muscle Detection & Segmentation </h3>  
-<p float="left">
-  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/1.gif" width="300" margin-left: 100px />
-  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/2.gif" width="300" /> 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/1.gif" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/2.gif" width="45%">
 </p>
+
+
 <div style="display: inline_block"><br>
   <img align="right" alt="Bruna-pic" height="200" style="border-radius:50px;"
     src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/final.png">
