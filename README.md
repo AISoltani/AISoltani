@@ -123,7 +123,7 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 <h1>
   <img align="right" width="350" src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/1.gif" />
   <img align="left" width="350" src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/2.gif" />
-</h1>
+
 
 <h1 font-weight="bold">
   📮 How to reach me
