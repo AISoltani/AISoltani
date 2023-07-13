@@ -102,11 +102,11 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
    <summary><h3><b>:rocket: &nbsp;Github stats Detailed</b></h3></summary>
    </br>
     <div align='center'>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AISoltani&theme=dark" alt="Profile Details">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AISoltani&theme=dark" alt="Repos per Language">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AISoltani&theme=dark" alt="Most Commit Language">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AISoltani&theme=dark" alt="Stats">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AISoltani&theme=dark&utcOffset=8" alt="Productive Time">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AISoltani&theme=radical" alt="Profile Details">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AISoltani&theme=radical" alt="Repos per Language">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AISoltani&theme=radical" alt="Most Commit Language">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AISoltani&theme=radical" alt="Stats">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AISoltani&theme=radical&utcOffset=8" alt="Productive Time">
     </div>
    </br>
 </details>
