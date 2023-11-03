@@ -121,15 +121,6 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 </p>
 
 
-<h3>🧰️ Hybrid Approaches: Few-Shot Learning for Fashion Recommendation System </h3>  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/1.gif" width="27%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/2.gif" width="27%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/33.gif" width="27%">
-</p>
 
 
 <h3>🧰️ Lastest Project: AI Fitness Fat-Loss Muscle Detection & Segmentation </h3>  
