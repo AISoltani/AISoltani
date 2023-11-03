@@ -116,7 +116,7 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 <h3>🧰️ Medical Research Experience: Few-Shot Faster R-CNN for Medical Object Detection n </h3>  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/th.gif" width="27%">
+  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/th.gif" width="100%">
 &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
