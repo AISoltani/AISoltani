@@ -113,7 +113,7 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 
 
 
-<h3>🧰️ Medical Research Experience: Few-Shot Faster R-CNN for Medical Object Detection n </h3>  
+<h3>🧰️ Medical Research Experience: Few-Shot Faster R-CNN for Medical Object Detection</h3>  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/th.gif">
@@ -121,7 +121,7 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 </p>
 
 
-<h3>🧰️ Hybrid Approaches: Few-Shot Learning for Fashion Recommendation System n </h3>  
+<h3>🧰️ Hybrid Approaches: Few-Shot Learning for Fashion Recommendation System </h3>  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/ScreenShot_20231103191154.png">
