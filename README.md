@@ -126,6 +126,14 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 </p>
 
 
+<h3>🧰️ Multi Pose-Side-Shape Stimation: Multiple Body Pose, Point & Shape, Stimation </h3>  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/pose.png">
+&nbsp; &nbsp; &nbsp; &nbsp;
+</p>
+
+
 <h3>🧰️ Lastest Project: AI Fitness Fat-Loss Muscle Detection & Segmentation </h3>  
 
 <p align="center">
