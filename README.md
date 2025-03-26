@@ -179,22 +179,23 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 
 
 
-<h1 align="center" style="font-weight: bold; margin: 0; padding: 0;">📮 How to reach me</h1>
-<p align="center" style="margin: 0; padding: 0;">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" alt="Handshake Gif" />
-</p>
-<p align="center" style="margin: 0; padding: 0;">
-  <a href="mailto:amirsoltani.os@gmail.com" target="_blank">
+<h1 font-weight="bold">
+  📮 How to reach me
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
+</h1>
+
+<p align='center'>
+  <a href="amirsoltani.os@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <!-- Uncomment this section if LinkedIn is needed -->
-  <!-- <a href="https://www.linkedin.com/" target="_blank">
+<!--   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> -->
   <a href="https://join.skype.com/invite/Ec9f75iUsYvn" target="_blank">
     <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
   </a>
-  <a href="https://t.me/AI_ISII" target="_blank">
+   <a href="https://t.me/AI_ISII">
     <img src="https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
+ 
