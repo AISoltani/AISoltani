@@ -179,22 +179,19 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 
 
 
-<h1 font-weight="bold">
-  📮 How to reach me
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
-</h1>
-
-<p align='center'>
-  <a href="amirsoltani.os@gmail.com" target="_blank">
+<h1 style="font-weight: bold;">📮 How to reach me</h1>
+<p align="center">
+  <a href="mailto:amirsoltani.os@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-<!--   <a href="https://www.linkedin.com/">
+  <!-- Uncomment the LinkedIn section if needed -->
+  <!-- <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> -->
   <a href="https://join.skype.com/invite/Ec9f75iUsYvn" target="_blank">
     <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
   </a>
-   <a href="https://t.me/AI_ISII">
+  <a href="https://t.me/AI_ISII" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
