@@ -179,12 +179,12 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 
 
 
-<h1 style="font-weight: bold;">📮 How to reach me</h1>
-<p align="center">
+<h1 align="center" style="font-weight: bold; margin: 0;">📮 How to reach me</h1>
+<p align="center" style="margin: 0; padding: 0;">
   <a href="mailto:amirsoltani.os@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <!-- Uncomment the LinkedIn section if needed -->
+  <!-- Uncomment this section if LinkedIn is needed -->
   <!-- <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> -->
@@ -195,4 +195,3 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
     <img src="https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
- 
