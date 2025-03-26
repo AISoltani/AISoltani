@@ -172,9 +172,9 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="Bruna-pic" height="200" style="border-radius:50px;"
+  <img align="right" alt="Bruna-pic" height="200" style="border-radius:50px; border: none;"
     src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/final.png">
- </div>
+</div>
 
 
 
