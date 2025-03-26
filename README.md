@@ -117,7 +117,6 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
   </a>
 
   <a href="https://git.io/streak-stats">
-    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=AISoltani&theme=radical" alt="GitHub Streak">
     [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=AISoltani&theme=radical)](https://git.io/streak-stats)
   </a>
 </div>
