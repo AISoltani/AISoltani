@@ -13,14 +13,12 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 Together, let's shape a AI landscape that radiates with wonder and awe!
   
   
-<img align="right" width="350" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" />
+
 <p>
-</h2>
-<div style="margin-bottom: 30px;"></div>  <!-- Adjust margin value -->
-<img ...>
+
 <h1 font-weight="bold">
   🌟 My Skills  
-
+<img align="right" width="350" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" />
 </h1>
 Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, The future belongs to those who learn more skills and combine them in creative ways😉.
 </p>
