@@ -2,6 +2,7 @@
 🔭 I’m working on object detection and segmentation <br>🤝 I’m looking for help with AI Projects<br>🌱 I’m currently learning Advanced Deep feature extraction on YOLO & Mask-RCNN<br>💬 Ask me about ML, Machine Vision, Deep Learning, Pattern Recognition, ...<br>⚡
 </h2>
 <h1>💫 About Me:</h1>
+
 <img align="right" width="350" src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/as2.gif" />
 <p>
 Have you not heard? The LORD is the everlasting God, the Creator of the ends of the earth. He will not grow tired or weary, and his understanding no one can fathom. He gives strength to the weary and increases the power of the weak.
@@ -14,7 +15,9 @@ Together, let's shape a AI landscape that radiates with wonder and awe!
   
 <img align="right" width="350" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" />
 <p>
-
+</h2>
+<br><br>  <!-- Adds two line breaks -->
+<img align="right"...>
 <h1 font-weight="bold">
   🌟 My Skills  
 
