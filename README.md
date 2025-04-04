@@ -15,9 +15,9 @@ Together, let's shape a AI landscape that radiates with wonder and awe!
   
 <img align="right" width="350" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" />
 <p>
-</h1>
-<p>&nbsp;</p>  <!-- Adds a vertical gap -->
-<h1>🌟 My Skills</h1>
+</h2>
+<div style="margin-bottom: 30px;"></div>  <!-- Adjust margin value -->
+<img ...>
 <h1 font-weight="bold">
   🌟 My Skills  
 
