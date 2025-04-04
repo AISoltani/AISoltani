@@ -1,7 +1,6 @@
 <h2 align="center" font-weight="bold">
 🔭 I’m working on object detection and segmentation <br>🤝 I’m looking for help with AI Projects<br>🌱 I’m currently learning Advanced Deep feature extraction on YOLO & Mask-RCNN<br>💬 Ask me about ML, Machine Vision, Deep Learning, Pattern Recognition, ...<br>⚡
 </h2>
-
 <h1>💫 About Me:</h1>
 <img align="right" width="350" src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/as2.gif" />
 <p>
