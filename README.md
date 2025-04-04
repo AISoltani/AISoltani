@@ -188,15 +188,15 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
   <a href="amirsoltani.os@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-<!--   <a href="https://www.linkedin.com/">
+   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a> -->
+  </a>
   <a href="https://join.skype.com/invite/Ec9f75iUsYvn" target="_blank">
-    <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
+    <img src="https://img.shields.io/badge/Kaggle-0078d4?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
-   <a href="https://t.me/AI_ISII">
+<!--   <a href="https://t.me/AI_ISII">
     <img src="https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
+  </a> -->
 </p>
  
  
