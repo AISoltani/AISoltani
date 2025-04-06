@@ -40,8 +40,6 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 </table>
 
   <br/>
-  <br/>
-  <br/>
 <h2 font-weight="bold">🏅 Strengths Skills 🎩</h2>
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,aiscript,pytorch,arduino,c,cpp,matlab,photoshop,processing" width="100%">
