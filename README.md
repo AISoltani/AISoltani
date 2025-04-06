@@ -23,6 +23,10 @@ Together, let's shape a AI landscape that radiates with wonder and awe!
 Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, The future belongs to those who learn more skills and combine them in creative ways😉.
 </p>
 ● Computer Vision & Deep Learning    ● Object Detection, Segmentation & Tracking  
+● Real-Time Computer Vision Systems  ● Medical AI & Biomedical Imaging
+● Healthcare AI Solutions            ● Semi-Supervised & Few-Shot Learning
+● Satellite & Aerial Image Analysis  ● Edge Computing & On-Device Deployment
+● 3D Vision & Point Cloud Processing ● Data Annotation & Labeling
 
 
   <br/>
