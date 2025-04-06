@@ -26,18 +26,18 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
   <tr>
     <td>
       <ul>
-        <li>Key sentence 1</li>
-        <li>Key sentence 2</li>
-        <li>Key sentence 1</li>
-        <li>Key sentence 2</li>
+        <li>ML, CV & Deep Learning</li>
+        <li>Real-Time Computer Vision Systems</li>
+        <li>Healthcare AI Solutions</li>
+        <li>Satellite & Aerial Image Analysis</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>Key sentence 3</li>
-        <li>Key sentence 4</li>
-        <li>Key sentence 31</li>
-        <li>Key sentence 41</li>
+        <li>Detection, Segmentation & Tracking</li>
+        <li>Medical AI & Biomedical Imaging</li>
+        <li>Semi-Supervised & Few-Shot Learning</li>
+        <li>Edge Computing & On-Device Deployment</li>
       </ul>
     </td>
   </tr>
