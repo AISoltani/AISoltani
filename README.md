@@ -36,8 +36,6 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
         <li>Edge Computing & On-Device Deployment</li>
       </ul>
     </td>
-    <td>
-    </td>
   </tr>
 </table>
 
