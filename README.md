@@ -22,22 +22,16 @@ Together, let's shape a AI landscape that radiates with wonder and awe!
 </h1>
 Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, The future belongs to those who learn more skills and combine them in creative ways😉.
 </p>
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>ML, CV & Deep Learning</li>
-        <li>Real-Time Computer Vision Systems</li>
-        <li>Healthcare AI Solutions</li>
-        <li>Satellite & Aerial Image Analysis</li>
-        <li>Detection, Segmentation & Tracking</li>
-        <li>Medical AI & Biomedical Imaging</li>
-        <li>Semi-Supervised & Few-Shot Learning</li>
-        <li>Edge Computing & On-Device Deployment</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<small>
+- ML, CV & Deep Learning  
+- Real-Time Computer Vision Systems  
+- Healthcare AI Solutions  
+- Satellite & Aerial Image Analysis  
+- Detection, Segmentation & Tracking  
+- Medical AI & Biomedical Imaging  
+- Semi-Supervised & Few-Shot Learning  
+- Edge Computing & On-Device Deployment
+</small>
 
   <br/>
 <h2 font-weight="bold">🏅 Strengths Skills 🎩</h2>
