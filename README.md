@@ -25,7 +25,7 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 <table>
   <tr>
     <td>
-      <ul style="font-size: 0.9em; margin: 0; padding-left: 1.5em;">
+      <ul style="font-size: 0.2em; margin: 0; padding-left: 1.5em;">
         <li style="font-size: 0.9em;">ML, CV & Deep Learning</li>
         <li style="font-size: 0.9em;">Real-Time Computer Vision Systems</li>
         <li style="font-size: 0.9em;">Healthcare AI Solutions</li>
