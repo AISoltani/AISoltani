@@ -22,7 +22,6 @@ Together, let's shape a AI landscape that radiates with wonder and awe!
 </h1>
 Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, The future belongs to those who learn more skills and combine them in creative ways😉.
 </p>
-<small>ML, CV & Deep Learning  
 <table>
   <tr>
     <td>
@@ -40,7 +39,6 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
   </tr>
 </table>
 
-  <br/>
 <h2 font-weight="bold">🏅 Strengths Skills 🎩</h2>
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,aiscript,pytorch,arduino,c,cpp,matlab,photoshop,processing" width="100%">
