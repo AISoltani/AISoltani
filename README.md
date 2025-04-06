@@ -22,15 +22,22 @@ Together, let's shape a AI landscape that radiates with wonder and awe!
 </h1>
 Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, The future belongs to those who learn more skills and combine them in creative ways😉.
 </p>
-<div style="column-count: 2;">
-  <ul>
-    <li>Key sentence 1</li>
-    <li>Key sentence 2</li>
-    <li>Key sentence 3</li>
-    <li>Key sentence 4</li>
-  </ul>
-</div>
-
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>Key sentence 1</li>
+        <li>Key sentence 2</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Key sentence 3</li>
+        <li>Key sentence 4</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
   <br/>
   <br/>
