@@ -28,12 +28,16 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
       <ul>
         <li>Key sentence 1</li>
         <li>Key sentence 2</li>
+        <li>Key sentence 1</li>
+        <li>Key sentence 2</li>
       </ul>
     </td>
     <td>
       <ul>
         <li>Key sentence 3</li>
         <li>Key sentence 4</li>
+        <li>Key sentence 31</li>
+        <li>Key sentence 41</li>
       </ul>
     </td>
   </tr>
