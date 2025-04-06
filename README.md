@@ -24,7 +24,7 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 </p>
 <table>
   <tr>
-    <td style="font-size: 12px;">
+    <td style="font-size: 8px;">
       <ul>
         <li>ML, CV & Deep Learning</li>
         <li>Real-Time Computer Vision Systems</li>
@@ -32,7 +32,7 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
         <li>Satellite & Aerial Image Analysis</li>
       </ul>
     </td>
-    <td style="font-size: 12px;">
+    <td style="font-size: 8px;">
       <ul>
         <li>Detection, Segmentation & Tracking</li>
         <li>Medical AI & Biomedical Imaging</li>
