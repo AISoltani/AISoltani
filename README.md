@@ -25,20 +25,24 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 <table>
   <tr>
     <td>
-      <ul style="font-size: 0.2em; margin: 0; padding-left: 1.5em;">
-        <li style="font-size: 0.2em;">ML, CV & Deep Learning</li>
-        <li style="font-size: 0.9em;">Real-Time Computer Vision Systems</li>
-        <li style="font-size: 0.9em;">Healthcare AI Solutions</li>
-        <li style="font-size: 0.9em;">Satellite & Aerial Image Analysis</li>
-      </ul>
+      <sub>
+        <ul>
+          <li>ML, CV & Deep Learning</li>
+          <li>Real-Time Computer Vision Systems</li>
+          <li>Healthcare AI Solutions</li>
+          <li>Satellite & Aerial Image Analysis</li>
+        </ul>
+      </sub>
     </td>
     <td>
-      <ul style="font-size: 0.9em; margin: 0; padding-left: 1.5em;">
-        <li style="font-size: 0.9em;">Detection, Segmentation & Tracking</li>
-        <li style="font-size: 0.9em;">Medical AI & Biomedical Imaging</li>
-        <li style="font-size: 0.9em;">Semi-Supervised & Few-Shot Learning</li>
-        <li style="font-size: 0.9em;">Edge Computing & On-Device Deployment</li>
-      </ul>
+      <sub>
+        <ul>
+          <li>Detection, Segmentation & Tracking</li>
+          <li>Medical AI & Biomedical Imaging</li>
+          <li>Semi-Supervised & Few-Shot Learning</li>
+          <li>Edge Computing & On-Device Deployment</li>
+        </ul>
+      </sub>
     </td>
   </tr>
 </table>
