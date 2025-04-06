@@ -22,9 +22,10 @@ Together, let's shape a AI landscape that radiates with wonder and awe!
 </h1>
 Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, The future belongs to those who learn more skills and combine them in creative ways😉.
 </p>
+<small>
 <table>
   <tr>
-    <td style="font-size: 12px;">
+    <td>
       <ul>
         <li>ML, CV & Deep Learning</li>
         <li>Real-Time Computer Vision Systems</li>
@@ -32,7 +33,7 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
         <li>Satellite & Aerial Image Analysis</li>
       </ul>
     </td>
-    <td style="font-size: 12px;">
+    <td>
       <ul>
         <li>Detection, Segmentation & Tracking</li>
         <li>Medical AI & Biomedical Imaging</li>
@@ -42,6 +43,7 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
     </td>
   </tr>
 </table>
+</small>
 
   <br/>
   <br/>
