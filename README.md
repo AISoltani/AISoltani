@@ -31,7 +31,6 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
         <li>Vision-Language Models (VLMs)</li>
         <li>Healthcare AI Solutions</li>
         <li>Real-Time Computer Vision Systems</li>
-        <li>Satellite & Aerial Image Analysis</li>
       </ul>
     </td>
   </tr>
