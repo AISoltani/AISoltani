@@ -205,7 +205,7 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
     <img src="https://img.shields.io/badge/Kaggle-0078d4?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
   <a href="https://x.com/AISoltani" target="_blank">
-    <img src="	https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
 <!--   <a href="https://t.me/AI_ISII">
     <img src="https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
