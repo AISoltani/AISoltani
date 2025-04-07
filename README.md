@@ -26,7 +26,7 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
   <tr>
     <td>
       <ul>
-        <li>MAchine Learning, Computer Vision & Deep Learning</li>
+        <li>Machine Learning, Computer Vision & Deep Learning</li>
         <li>Object Detection, Segmentation & Tracking</li>
         <li>Vision-Language Models (VLMs)</li>
         <li>Healthcare AI Solutions</li>
