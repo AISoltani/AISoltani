@@ -25,8 +25,6 @@ Together, let's shape a AI landscape that radiates with wonder and awe!
       <ul>
         <li>Machine Learning, Computer Vision & Deep Learning</li>
         <li>Object Detection, Segmentation & Tracking</li>
-        <li>Vision-Language Models (VLMs)</li>
-        <li>Healthcare AI Solutions</li>
         <li>Real-Time Computer Vision Systems</li>
       </ul>
     </td>
