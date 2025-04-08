@@ -26,6 +26,7 @@ Together, let's shape a AI landscape that radiates with wonder and awe!
       <ul>
         <li>Machine Learning, Computer Vision & Deep Learning</li>
         <li>Object Detection, Segmentation & Tracking</li>
+        <li>Object Detection, Segmentation & Tracking</li>
       </ul>
     </td>
   </tr>
