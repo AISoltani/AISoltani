@@ -18,7 +18,9 @@ Together, let's shape a AI landscape that radiates with wonder and awe!
 
 <h1 font-weight="bold">
   🌟 Skills & Expertise Area  
+<img align="right" width="350" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" />
 </h1>
+Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, The future belongs to those who learn more skills and combine them in creative ways😉.
 </p>
 <table>
   <tr>
@@ -26,7 +28,9 @@ Together, let's shape a AI landscape that radiates with wonder and awe!
       <ul>
         <li>Machine Learning, Computer Vision & Deep Learning</li>
         <li>Object Detection, Segmentation & Tracking</li>
-        <li>Object Detection, Segmentation & Tracking</li>
+        <li>Vision-Language Models (VLMs)</li>
+        <li>Healthcare AI Solutions</li>
+        <li>Real-Time Computer Vision Systems</li>
       </ul>
     </td>
   </tr>
