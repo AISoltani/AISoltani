@@ -38,8 +38,8 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 
 <h2 font-weight="bold">🏅 Strengths Skills 🎩</h2>
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,aiscript,pytorch,arduino,c,cpp,matlab,photoshop,processing" width="100%">
-<img src="https://skillicons.dev/icons?i=ai,azure,bash,linux,git,androidstudio,qt,stackoverflow,visualstudio,wordpress" width="100%">
+<img src="https://skillicons.dev/icons?i=ai,python,c,cpp,matlab,tensorflow,pytorch,opencv,fastapi,elasticsearch,raspberrypi,fastapi" width="100%">
+<img src="https://skillicons.dev/icons?i=qt,powershell,bash,linux,git,github,gitlab,stackoverflow,visualstudio,docker,azure,notion" width="100%">
 
 
 
