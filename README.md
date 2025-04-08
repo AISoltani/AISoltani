@@ -19,7 +19,19 @@ Together, let's shape a AI landscape that radiates with wonder and awe!
 <h1 font-weight="bold">
   🌟 Skills & Expertise Area  
 
-
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>Machine Learning, Computer Vision & Deep Learning</li>
+        <li>Object Detection, Segmentation & Tracking</li>
+        <li>Vision-Language Models (VLMs)</li>
+        <li>Healthcare AI Solutions</li>
+        <li>Real-Time Computer Vision Systems</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 <h2 font-weight="bold">🏅 Strengths Skills 🎩</h2>
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,aiscript,pytorch,arduino,c,cpp,matlab,photoshop,processing" width="100%">
