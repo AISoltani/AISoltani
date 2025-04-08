@@ -18,7 +18,7 @@ Together, let's shape a AI landscape that radiates with wonder and awe!
 
 <h1 font-weight="bold">
   🌟 Skills & Expertise Area  
-
+</h1>
 <table>
   <tr>
     <td>
