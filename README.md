@@ -186,6 +186,8 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://raw.githubusercontent.com/AISoltani/Yolov11-Android-Tool-Kotlin/refs/heads/main/SCR2.jpg" width="27%">
 &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://raw.githubusercontent.com/AISoltani/Yolov11-Android-Tool-Kotlin/refs/heads/main/SRC3.jpg" width="27%">
+&nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
 
