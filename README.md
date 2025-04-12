@@ -162,7 +162,7 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 </p>
 
 
-<h3>🧰️ Multi Pose-Side-Shape Stimation: Multiple Body Pose, Point & Shape, Stimation(MoveNet, PoseNet, MediaPipe) </h3>  
+<h3>🧰️ Multi Pose-Side-Shape Estimation: Multiple Body Pose, Point & Shape, Stimation(MoveNet, PoseNet, MediaPipe) </h3>  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/pose.png">
