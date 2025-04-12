@@ -182,11 +182,11 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 <h3>🧰️ YOLOv11-EdgeSuite: Universal Mobile Vision Toolkit Using YOLOv11 Models for Detection & Segmentation Tasks on Smart Phone </h3>  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AISoltani/Yolov11-Android-Tool-Kotlin/refs/heads/main/SCR2.jpg">
+    <img src="https://raw.githubusercontent.com/AISoltani/Yolov11-Android-Tool-Kotlin/refs/heads/main/SCR1.jpg" width="27%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://raw.githubusercontent.com/AISoltani/Yolov11-Android-Tool-Kotlin/refs/heads/main/SCR2.jpg" width="27%">
 &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
-
-
 
 
 
