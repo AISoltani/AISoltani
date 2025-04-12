@@ -145,7 +145,6 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 </details>
 
 
-
 <h3>🧰️ Medical Research Experience: Few-Shot Cascade R-CNN for Medical Object Detection & Segmentation</h3>  
 
 <p align="center">
@@ -170,7 +169,7 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 </p>
 
 
-<h3>🧰️ Lastest Project: AI Fitness Fat-Loss Muscle Detection & Segmentation </h3>  
+<h3>🧰️ AI for Health & Wellness: AI Fitness Fat-Loss Muscle Detection & Segmentation </h3>  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/1.gif" width="27%">
@@ -180,7 +179,12 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
   <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/33.gif" width="27%">
 </p>
 
+<h3>🧰️ YOLOv11-EdgeSuite: Universal Mobile Vision Toolkit Using YOLOv11 Models for Detection & Segmentation Tasks on Smart Phone </h3>  
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AISoltani/Yolov11-Android-Tool-Kotlin/refs/heads/main/SCR2.jpg">
+&nbsp; &nbsp; &nbsp; &nbsp;
+</p>
 
 
 
