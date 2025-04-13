@@ -1,5 +1,5 @@
 <h2 align="center" font-weight="bold">
-🔭 I’m working on object detection and segmentation <br>🤝 I’m looking for help with AI Projects<br>🌱 I’m currently learning Advanced Deep feature extraction on YOLO & Mask-RCNN<br>💬 Ask me about ML, Machine Vision, Deep Learning, Pattern Recognition, ...<br>⚡
+🔭 I Am Passionate About Breaking Down The Limitations of Object Detection & Segmentation <br>🤝 Open to innovative collaborations and challenging AI projects<br>🌱 Actively Exploring State‑of‑The‑Art Models Like YOLO Variants, DETR, and Transformer‑Based Segmentation to Advance Deep Feature Extraction<br>💬 Ask me about ML, Machine Vision, Deep Learning or Pattern Recognition, ...<br>⚡
 </h2>
 <h1>💫 About Me:</h1>
 
