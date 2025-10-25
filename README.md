@@ -52,16 +52,25 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 
 <!--🖼️🖼️INTERSTLOGOS-->
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/deepl/deepl-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="60">
+<img src="https://raw.githubusercontent.com/valohai/ml-logos/d8dfb916e50a93a41f3b1ed2ca7bd3dbc77030a2/keras.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/healthgrades/healthgrades-icon.svg" width="60">
+<img src="https://raw.githubusercontent.com/pheralb/svgl/d00a29d4483cf0cc1e16ab816b0248b93332733a/static/library/hugging_face.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21~bgwhite.svg" width="60">
+<img src="https://raw.githubusercontent.com/pheralb/svgl/cab8409791006a8371ed3708b101696cdbe1f95c/static/library/Google_Colaboratory.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="60">
+<img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/586ce5ff45efe21848da6c7aa81ca3556cba4d48/Papirus/64x64/apps/cursor.svg" width="60">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60">
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/time/time-ar21~bgwhite.svg" width="60">
 </h4>
 
 
