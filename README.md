@@ -124,32 +124,10 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 <h1 font-weight="bold">📊 My Github Stats 🏆</h1>
 
 <div align='center'>
-  <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AISoltani&layout=compact&langs_count=7&theme=radical">
-  <a href="#">
-    <img  src="https://github-profile-trophy.vercel.app/?username=AISoltani&theme=radical&row=1&column=6" alt="trophy">
-  </a>
-  <br/>
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=radical&preferLogin=false">
-    <img height="150em" alt="AISoltani's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AISoltani?cardType=level&theme=radical&preferLogin=false" />
-  </a>
 
-  <a href="https://git.io/streak-stats">
-    <img height="150em" src="https://git-hub-streak-stats.vercel.app?user=AISoltani&theme=radical" alt="GitHub Streak">
-  </a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&fontFamily=&preferLogin=false">    <img  alt="AISoltani's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AISoltani?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false" />  </a>
+
 </div>
-<br/>
-<details>
-   <summary><h3><b>:rocket: &nbsp;Github stats Detailed</b></h3></summary>
-   </br>
-    <div align='center'>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AISoltani&theme=radical" alt="Profile Details">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AISoltani&theme=radical" alt="Repos per Language">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AISoltani&theme=radical" alt="Most Commit Language">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AISoltani&theme=radical" alt="Stats">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AISoltani&theme=radical&utcOffset=8" alt="Productive Time">
-    </div>
-   </br>
-</details>
 
 
 <h3>🧰️ Medical Research Experience: Few-Shot Cascade R-CNN for Medical Object Detection & Segmentation</h3>  
