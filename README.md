@@ -197,7 +197,7 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
   <img src="https://github.com/AISoltani/labelbox/blob/master/Thermal-DT.gif?raw=true" width="78%" >
 </p>
 
-<h3>🧰️ Scable High-Resolution Object Detection Using Satellite Sentinel Imagery </h3>  
+<h3>🧰️ Scable High-Resolution Object Detection Using Sentinel Satellite Imagery </h3>  
 
 <p align="center">
   <img src="https://github.com/AISoltani/labelbox/blob/master/Sentinel.gif?raw=true" width="48%" >
