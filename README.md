@@ -127,7 +127,7 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&fontFamily=&preferLogin=false">    <img  alt="AISoltani's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AISoltani?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false" />  </a>
 
-[![trophy](https://github-trophies.vercel.app/?username=AISoltani&theme=tokyonight&column=-1)](https://github.com/lucthienphong1120/github-trophies)
+[![trophy](https://github-trophies.vercel.app/?username=AISoltani&theme=tokyonight&row=1&column=8)](https://github.com/lucthienphong1120/github-trophies)
 
 </div>
 
@@ -164,6 +164,8 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
   <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/2.gif" width="27%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/33.gif" width="27%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://raw.githubusercontent.com/AISoltani/labelbox/refs/heads/master/Muscle.png" width="90%">
 </p>
 
 <h3>🧰️ YOLOv11-EdgeSuite: Universal Mobile Vision Toolkit Using YOLOv11 Models for Detection & Segmentation Tasks on Smart Phone </h3>  
