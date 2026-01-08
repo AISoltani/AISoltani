@@ -139,7 +139,7 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
-<h3>🧰️ Super-Resolution–Driven Detection of Medical Targets </h3>  
+<h3>🧰️ 2D-3D Super-Resolution–Driven Detection of Medical Targets </h3>  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AISoltani/labelbox/refs/heads/master/MedicalSR.png" width="78%" height="400" >
