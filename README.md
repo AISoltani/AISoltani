@@ -127,7 +127,6 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&fontFamily=&preferLogin=false">    <img  alt="AISoltani's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AISoltani?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false" />  </a>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=AISoltani&theme=tokyonight)
 </div>
 
 
