@@ -135,37 +135,43 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 <h3>🧰️ Medical Research Experience: Few-Shot Cascade R-CNN for Medical Object Detection & Segmentation</h3>  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AISoltani/Mask_RCNN_ResNet_101_50/refs/heads/main/Few-shot.gif">
+  <img src="https://raw.githubusercontent.com/AISoltani/Mask_RCNN_ResNet_101_50/refs/heads/main/Few-shot.gif" width="78%">
 &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
-
-<h3>🧰️ Hybrid Approaches: Few-Shot Learning for Fashion Recommendation System </h3>  
+<h3>🧰️ Super-Resolution–Driven Detection of Medical Targets </h3>  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/ScreenShot_20231103191154.png">
-&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://raw.githubusercontent.com/AISoltani/labelbox/refs/heads/master/MedicalSR.png" width="78%" height="400" >
 </p>
-
 
 <h3>🧰️ Multi Pose-Side-Shape Estimation: Multiple Body Pose, Point & Shape, Estimation(MoveNet, PoseNet, MediaPipe) </h3>  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/pose.png">
+  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/pose.png" width="90%">
 &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
 
-<h3>🧰️ AI for Health & Wellness: AI Fitness Fat-Loss Muscle Detection & Segmentation </h3>  
+<h3>🧰️ AI for Health & Wellness: AI Fitness Fat-Loss Muscle Detection & Segmentation</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/1.gif" width="27%">
+  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/1.gif" width="27%" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/2.gif" width="27%" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/33.gif" width="27%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AISoltani/labelbox/refs/heads/master/Muscle.png" width="88%" />
+</p>
+
+<h3>🧰️ Hybrid Approaches: Few-Shot Learning for Fashion Recommendation System </h3>  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/ScreenShot_20231103191154.png" width="88%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/2.gif" width="27%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/33.gif" width="27%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://raw.githubusercontent.com/AISoltani/labelbox/refs/heads/master/Muscle.png" width="90%">
 </p>
 
 <h3>🧰️ YOLOv11-EdgeSuite: Universal Mobile Vision Toolkit Using YOLOv11 Models for Detection & Segmentation Tasks on Smart Phone </h3>  
@@ -179,7 +185,23 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
+<h3>🧰️ Few-Shot Object Density HeatMap Generator </h3>  
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AISoltani/labelbox/refs/heads/master/HeatMap.png" width="78%" height="400" />
+</p>
+
+<h3>🧰️ Real-Time Colormap-Invariant Thermal Object Detection with a Hybrid YOLO–Transformer </h3>  
+
+<p align="center">
+  <img src="https://github.com/AISoltani/labelbox/blob/master/Thermal-DT.gif?raw=true" width="78%" >
+</p>
+
+<h3>🧰️ Scable High-Resolution Object Detection Using Sentinel Imagery </h3>  
+
+<p align="center">
+  <img src="https://github.com/AISoltani/labelbox/blob/master/Sentinel.gif?raw=true" width="48%" >
+</p>
 
 <h1 font-weight="bold">
   📮 How to reach me
