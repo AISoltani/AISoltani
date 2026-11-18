@@ -256,7 +256,11 @@ Few-shot recommendation that combines metric learning with lightweight content-b
 
 ---
 
-## Contact <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" alt="Animated handshake" />
+## Contact
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" alt="Animated handshake" />
+</p>
 
 Open to senior Generative AI, LLMs, VLMs, computer vision and machine learning roles, research collaborations and PhD opportunities.
 
