@@ -1,273 +1,232 @@
-<div align="center">
+<h2 align="center" font-weight="bold">
+🔭 I Am Passionate About Breaking Down The Limitations of Object Detection & Segmentation <br>🤝 Open to innovative collaborations and challenging AI projects<br>🌱 Actively Exploring State‑of‑The‑Art Models Like YOLO Variants, DETR, and Transformer‑Based Segmentation to Advance Deep Feature Extraction<br>💬 Ask me about ML, Machine Vision, Deep Learning or Pattern Recognition<br>⚡
+</h2>
+<h1>💫 About Me:</h1>
 
-<a href="https://aisoltani.github.io">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=820&lines=Computer+Vision+%26+Machine+Learning+Engineer;Medical+AI+%E2%80%A2+Remote+Sensing+%E2%80%A2+Real-Time+Edge+AI;Vision-Language+Models+%E2%80%A2+LLMs+%E2%80%A2+RAG;Vision+systems+that+work+outside+the+lab" alt="Amir Soltani: computer vision and machine learning engineer" />
-</a>
+<img align="right" width="350" src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/as2.gif" />
+<p>
+Have you not heard? The LORD is the everlasting God, the Creator of the ends of the earth. He will not grow tired or weary, and his understanding no one can fathom. He gives strength to the weary and increases the power of the weak.
 
-<br/>
+Well, AI is beautiful and The Art of Using It Is More Beautiful.
+Together, let's shape a AI landscape that radiates with wonder and awe!
+  
+  
 
-**Senior computer vision and machine learning engineer.** Since 2016 I've built vision systems that have to work outside the lab:<br/>
-on a phone in a gym, on a drone above a fire line, on a Jetson in a truck cab, on a clinician's review screen.
+<p>
 
-<a href="https://aisoltani.github.io"><img src="https://img.shields.io/badge/Portfolio-aisoltani.github.io-2F81F7?style=for-the-badge" alt="Portfolio" /></a>
-<a href="mailto:amirsoltani.os@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/amir-soltani-aisoltani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.kaggle.com/aisoltani"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-<a href="https://x.com/AISoltani"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-
-</div>
-
----
-
-## About
-
-<img align="right" width="330" src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/as2.gif" alt="" />
-
-- 🧠 **10+ years** across the whole model lifecycle: data and annotation, training, evaluation, inference optimization, deployment
-- 🏥 **Medical AI:** weakly supervised 3D detection for MRI and CT, dental X-rays, brain-tumour segmentation (0.92 DSC on BraTS), skin-lesion triage on Jetson Nano
-- 🛰️ **Remote sensing:** Prithvi-100M on Sentinel-2, small objects in large satellite scenes with SAHI, thermal drones for early fire detection (23% fewer false alarms)
-- ⚡ **Real-time and edge:** under 15 ms on Jetson Orin Nano and under 30 ms on mobile, with ONNX Runtime, TensorRT and DeepStream
-- 🏋️ **Led ML and computer vision at Sculp AI:** form feedback for 40+ exercises, body-composition segmentation (Dice 0.94)
-- 🤖 **Now:** vision-language models (CLIP, DINOv2, SigLIP, Grounding DINO, SAM 3), retrieval and LLM pipelines for clinical data
-- 🎯 *"Knowledge is not skill. Knowledge plus ten thousand hours is skill."*
-
-<br clear="right"/>
-
----
-
-## Experience
-
-| Period | Role | Where | Focus |
-|---|---|---|---|
-| May 2025 – Oct 2026 | Computer Vision Researcher | Nova Vision (remote, part-time) | Multimodal clinical AI, VLM retrieval, LLM document pipelines |
-| Jan 2023 – Feb 2025 | Computer Vision Engineer | VRVis GmbH (remote, flexible schedule) | Satellite, UAV and thermal drone imagery |
-| Feb 2022 – Mar 2024 | Head of ML & Computer Vision | Sculp AI (remote, full-time) | Real-time pose, body-composition segmentation, mobile deployment |
-| Feb 2022 – Dec 2023 | Computer Vision Engineer | SoftwareMotion (remote, project-based) | ADAS tracking and driver monitoring on Jetson |
-| Sep 2020 – Dec 2021 | Computer Vision Researcher | G42 Healthcare (remote, part-time) | MRI, CT, dental X-ray and skin-lesion analysis |
-| Feb 2016 – Mar 2019 | AI Computer Vision Developer | AMA-CTRL (Shiraz, on-site) | Industrial monitoring and site-safety vision |
-
-🎓 M.Sc. Computer Engineering (Artificial Intelligence), Amirkabir University of Technology (Tehran Polytechnic). Thesis: *Few-shot Cascade R-CNN for Human Forensic Age Estimation*.
-
----
-
-## Foundation models, VLMs and LLMs
-
-> Connecting perception models to language and retrieval.
-
-| | What | Built with | Where |
-|---|---|---|---|
-| 🩺 | **Finding visually similar clinical cases:** embedding search so reviewers can pull up similar cases during triage | `CLIP` `DINOv2` `SigLIP` | Nova Vision |
-| 🗣️ | **Masks from a text prompt:** text-guided localization and mask generation for image review and annotation | `Grounding DINO` `SAM 3` | Nova Vision |
-| 📄 | **Clinical documents into structured records:** extraction of diagnoses, medications and lab results, plus retrieval-backed assistants for search, summaries and Q&A | `OCR` `LLMs` `RAG` | Nova Vision |
-| 📚 | **Clinical knowledge assistant:** chunking, retrieval, reranking and answers grounded in the source material | `LLM` `RAG` | Independent prototype |
-| 🔎 | **Search medical cases by text or image:** shared visual and text embeddings with a language-model layer that summarizes the evidence | `VLM` | Independent prototype |
-| 🌍 | **Geospatial foundation models:** fine-tuned for forest-cover classification and other Earth-observation tasks | `Prithvi-100M` `Clay` | VRVis and research |
-
----
-
-## Featured work
-
-**62 searchable projects are on [aisoltani.github.io](https://aisoltani.github.io).** A few with pictures:
-
-### Detecting medical targets from a handful of examples
-
-Few-shot Cascade R-CNN for detection and segmentation in medical images. [Code](https://github.com/AISoltani/Mask_RCNN_ResNet_101_50)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AISoltani/Mask_RCNN_ResNet_101_50/refs/heads/main/Few-shot.gif" width="78%" alt="Few-shot medical detection">
+<h1 font-weight="bold">
+  🌟 Skills & Expertise Area  
+<img align="right" width="350" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" />
+</h1>
+Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, The future belongs to those who learn more skills and combine them in creative ways😉.
 </p>
-
-### Super-resolution that helps find small medical targets
-
-Super-resolution as a front end for 2D and 3D detection.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AISoltani/labelbox/refs/heads/master/MedicalSR.png" width="78%" height="400" alt="Super-resolution-driven medical detection">
-</p>
-
-### Tracking muscle and fat change between training sessions
-
-Muscle and fat segmentation with repeat-session alignment: Dice 0.94 and mAP@50 0.92 on the internal benchmark, with a distilled model under 35 MB for mid-range phones.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/1.gif" width="27%" alt="Muscle segmentation demo 1" />
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/2.gif" width="27%" alt="Muscle segmentation demo 2" />
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/33.gif" width="27%" alt="Muscle segmentation demo 3" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AISoltani/labelbox/refs/heads/master/Muscle.png" width="88%" alt="Muscle segmentation overview" />
-</p>
-
-### Body pose, keypoints and shape from several models
-
-Multiple body pose, point and shape estimation with MoveNet, PoseNet and MediaPipe.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/pose.png" width="90%" alt="Pose estimation comparison">
-</p>
-
-### Thermal detection that ignores the colormap
-
-A real-time hybrid YOLO-Transformer detector that stays reliable across thermal colormap settings.
-
-<p align="center">
-  <img src="https://github.com/AISoltani/labelbox/blob/master/Thermal-DT.gif?raw=true" width="78%" alt="Thermal object detection">
-</p>
-
-### Small objects in whole Sentinel satellite scenes
-
-Sliced inference with horizontal and oriented boxes, so large scenes can be processed without losing small targets.
-
-<p align="center">
-  <img src="https://github.com/AISoltani/labelbox/blob/master/Sentinel.gif?raw=true" width="48%" alt="Detection on Sentinel imagery">
-</p>
-
-### YOLOv11-EdgeSuite: detection and segmentation on Android
-
-A mobile vision toolkit that runs YOLOv11 models on smartphones. [Code](https://github.com/AISoltani/Yolov11-Android-Tool-Kotlin)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AISoltani/Yolov11-Android-Tool-Kotlin/refs/heads/main/SCR1.jpg" width="27%" alt="YOLOv11 Android screenshot 1">
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://raw.githubusercontent.com/AISoltani/Yolov11-Android-Tool-Kotlin/refs/heads/main/SCR2.jpg" width="27%" alt="YOLOv11 Android screenshot 2">
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://raw.githubusercontent.com/AISoltani/Yolov11-Android-Tool-Kotlin/refs/heads/main/SRC3.jpg" width="27%" alt="YOLOv11 Android screenshot 3">
-</p>
-
-### Fashion recommendations from a few examples
-
-Few-shot recommendation that combines metric learning with lightweight content-based filtering.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/ScreenShot_20231103191154.png" width="88%" alt="Few-shot fashion recommendation">
-</p>
-
-### Density heatmaps from a few labelled examples
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AISoltani/labelbox/refs/heads/master/HeatMap.png" width="78%" height="400" alt="Few-shot object density heatmap" />
-</p>
-
----
-
-## Industrial vision systems
-
-> Vision for smart infrastructure, site safety and traffic analytics.
-
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/AISoltani/Vison_advanced/refs/heads/main/Parking-AS.png" width="100%" alt="Smart parking"/><br/>
-      <b>Smart parking occupancy and analytics</b>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/AISoltani/Vison_advanced/refs/heads/main/RPA2.png" width="100%" alt="Vision-driven RPA"/><br/>
-      <b>Vision-driven process automation</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/AISoltani/Vison_advanced/refs/heads/main/Safety.png" width="100%" alt="Site safety"/><br/>
-      <b>Site safety: helmets, harnesses and restricted zones</b>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/AISoltani/Vison_advanced/refs/heads/main/TAS.png" width="100%" alt="Traffic analytics"/><br/>
-      <b>Traffic analytics and vehicle tracking</b>
+    <td>
+      <ul>
+        <li>Machine Learning, Computer Vision & Deep Learning</li>
+        <li>Object Detection, Segmentation & Tracking</li>
+        <li>Vision-Language Models (VLMs)</li>
+        <li>Healthcare AI Solutions</li>
+        <li>Real-Time Computer Vision Systems</li>
+      </ul>
     </td>
   </tr>
 </table>
 
----
+<h2 font-weight="bold">🏅 Strengths Skills 🎩</h2>
 
-## Tools
+<img src="https://skillicons.dev/icons?i=ai,python,c,cpp,matlab,tensorflow,pytorch,opencv,fastapi,elasticsearch,raspberrypi,processing" width="100%">
+<img src="https://skillicons.dev/icons?i=qt,powershell,bash,linux,git,github,gitlab,stackoverflow,visualstudio,docker,azure,notion" width="100%">
 
-<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,ts,kotlin,pytorch,tensorflow,opencv,sklearn,fastapi" alt="Languages and frameworks" />
 
-<img src="https://skillicons.dev/icons?i=docker,aws,azure,git,github,linux,bash,raspberrypi,androidstudio" alt="Platforms and tooling" />
 
-</div>
+<!--🐱CAT-->
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
-<details>
-<summary><b>Full stack</b></summary>
+<!--🤔INTERESTTITLE-->
+<p align="center">
+<img src="https://i.imgur.com/ozEwbHs.gif">
 
-| Area | Tools |
-|---|---|
-| **Computer vision** | OpenCV, MMDetection, MONAI, MediaPipe, Ultralytics YOLO, SAM / SAM 2 / SAM 3, Albumentations |
-| **Deep learning** | PyTorch, TensorFlow, Keras, scikit-learn, Hugging Face Transformers |
-| **Foundation models and LLMs** | CLIP, DINOv2, SigLIP, Grounding DINO, LangChain, LangGraph, LlamaIndex, RAG, PEFT/LoRA |
-| **Edge and deployment** | ONNX Runtime, TensorRT (INT8), TensorFlow Lite, NVIDIA DeepStream, Jetson Nano/Xavier/Orin, Raspberry Pi, Android/Kotlin |
-| **Geospatial** | GDAL, Rasterio, GeoPandas, TorchGeo, SAHI, Sentinel Hub, rioxarray, Prithvi, Clay |
-| **MLOps** | Docker, FastAPI, MLflow, Comet, Neptune, Weights & Biases, AWS, Azure |
-| **Data and annotation** | CVAT, Labelbox, Roboflow, active-learning review |
+<!--🖼️🖼️INTERSTLOGOS-->
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/deepl/deepl-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="60">
+<img src="https://raw.githubusercontent.com/valohai/ml-logos/d8dfb916e50a93a41f3b1ed2ca7bd3dbc77030a2/keras.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/healthgrades/healthgrades-icon.svg" width="60">
+<img src="https://raw.githubusercontent.com/pheralb/svgl/d00a29d4483cf0cc1e16ab816b0248b93332733a/static/library/hugging_face.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21~bgwhite.svg" width="60">
+<img src="https://raw.githubusercontent.com/pheralb/svgl/cab8409791006a8371ed3708b101696cdbe1f95c/static/library/Google_Colaboratory.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="60">
+<img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/586ce5ff45efe21848da6c7aa81ca3556cba4d48/Papirus/64x64/apps/cursor.svg" width="60">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60">
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/time/time-ar21~bgwhite.svg" width="60">
+</h4>
 
-</details>
 
----
 
-## Certificates
+# 💻 Tech Stack:
 
-> Each one links to its verification page.
+  <p align="center">
+    <img height='25em' src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+    <img height='25em' src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+    <img height='25em' src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img height='25em' src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+    <img height='25em' src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
+    <img height='25em' src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+    <img height='25em' src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+    <img height='25em' src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    <img height='25em' src="https://img.shields.io/badge/mediapipe-0097A7.svg?style=for-the-badge&logo=mediapipe&logoColor=white" />
+    <img height='25em' src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" /> 
+    <img height='25em' src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+    <img height='25em' src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+    <img height='25em' src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  </p>
 
-<details>
-<summary><b>AI in healthcare, machine learning and algorithms (16 certificates)</b></summary>
 
-| Course | Provider | Credential |
-|---|---|---|
-| **AI in Healthcare Specialization** | Stanford University | [Verify](https://www.coursera.org/account/accomplishments/specialization/R9C9W2YRK1WZ) |
-| Introduction to Healthcare | Stanford University | [Verify](https://www.coursera.org/account/accomplishments/verify/MV4UYUOWYGTJ) |
-| Introduction to Clinical Data | Stanford University | [Verify](https://www.coursera.org/account/accomplishments/verify/85BXCOE7ZWDI) |
-| Fundamentals of Machine Learning for Healthcare | Stanford University | [Verify](https://www.coursera.org/account/accomplishments/verify/B1X7ZRZ7U7WY) |
-| Evaluations of AI Applications in Healthcare | Stanford University | [Verify](https://www.coursera.org/account/accomplishments/verify/ZWEPEAF5WLJA) |
-| AI in Healthcare Capstone | Stanford University | [Verify](https://www.coursera.org/account/accomplishments/verify/DN9UR5QS0Y3L) |
-| Introduction to Medical Software | Yale University | [Verify](https://www.coursera.org/account/accomplishments/verify/64MM329IZ0NC) |
-| Essentials of Global Health | Yale University | [Verify](https://www.coursera.org/account/accomplishments/verify/VDZZUE7065VT) |
-| Breast Cancer | Yale University | [Verify](https://www.coursera.org/account/accomplishments/verify/DHYV19S7M35S) |
-| **Machine Learning Specialization** | DeepLearning.AI and Stanford Online | [Verify](https://www.coursera.org/account/accomplishments/specialization/9YTCR5C6A57W) |
-| Supervised Machine Learning: Regression and Classification | DeepLearning.AI and Stanford Online | [Verify](https://www.coursera.org/account/accomplishments/verify/U2S4BSCSTHK1) |
-| Advanced Learning Algorithms | DeepLearning.AI and Stanford Online | [Verify](https://www.coursera.org/account/accomplishments/verify/H6OQV45C7N37) |
-| Unsupervised Learning, Recommenders, Reinforcement Learning | DeepLearning.AI and Stanford Online | [Verify](https://www.coursera.org/account/accomplishments/verify/BYE5I5GSW96I) |
-| Graph Search, Shortest Paths, and Data Structures | Stanford University | [Verify](https://www.coursera.org/account/accomplishments/verify/5S4RSTH8CABW) |
-| Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming | Stanford University | [Verify](https://www.coursera.org/account/accomplishments/verify/LTDQ2550591R) |
-| SmallTalk2 English Speaking Test | SmallTalk2 | [Verify](https://app.smalltalk2.me/cert/f7ddd517) |
-
-</details>
-
----
-
-## GitHub stats
-
-<div align="center">
-
-<a href="https://github.com/AISoltani"><img alt="AISoltani's GitHub stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AISoltani?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false" /></a>
-
-[![trophy](https://github-trophies.vercel.app/?username=AISoltani&theme=tokyonight&row=1&column=8)](https://github.com/AISoltani)
-
+<h3>👉 Other 🧰️</h3>  
+  <p align="center">
+    <img height='25em' src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img height='25em' src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white" />
+    <img height='25em' src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+    <img height='25em' src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+    <img height='25em' src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img height='25em' src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+    <img height='25em' src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img height='25em' src="https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
+    <img height='25em' src="https://custom-icon-badges.demolab.com/badge/comet%20ml-262c3e?style=for-the-badge&logo=logo_comet_ml&logoColor=white" />
+    <img height='25em' src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img height='25em' src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+    <img height='25em' src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img height='25em' src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
+    <img height='25em' src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  </p>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SkyCaptainess.SkyCaptainess" />
+<!--   <img src="https://komarev.com/ghpvc/?username=SkyCaptainess&style=flat-square&color=blue" alt="" align="center"/> -->
+<h2 align="center"></h2>
+<br/>
+<h3>Let's play</h3>  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AISoltani/AISoltani/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Contribution grid snake animation" src="https://raw.githubusercontent.com/AISoltani/AISoltani/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AISoltani/AISoltani/output/github-contribution-grid-snake.svg">
 </picture>
 
+<h1 font-weight="bold">📊 My Github Stats 🏆</h1>
+
+<div align='center'>
+
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&fontFamily=&preferLogin=false">    <img  alt="AISoltani's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AISoltani?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false" />  </a>
+
+[![trophy](https://github-trophies.vercel.app/?username=AISoltani&theme=tokyonight&row=1&column=8)](https://github.com/lucthienphong1120/github-trophies)
+
 </div>
 
----
 
-## Contact
-
-Open to senior computer vision and machine learning roles, research collaborations and PhD opportunities.
+<h3>🧰️ Medical Research Experience: Few-Shot Cascade R-CNN for Medical Object Detection & Segmentation</h3>  
 
 <p align="center">
-  <a href="mailto:amirsoltani.os@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/amir-soltani-aisoltani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://aisoltani.github.io"><img src="https://img.shields.io/badge/Portfolio-0a0a23?style=for-the-badge" alt="Portfolio"></a>
-  <a href="https://www.kaggle.com/aisoltani"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
-  <a href="https://x.com/AISoltani"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <img src="https://raw.githubusercontent.com/AISoltani/Mask_RCNN_ResNet_101_50/refs/heads/main/Few-shot.gif" width="78%">
+&nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AISoltani.AISoltani" alt="visitors"/>
-</div>
+<h3>🧰️ 2D-3D Super-Resolution–Driven Detection of Medical Targets </h3>  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AISoltani/labelbox/refs/heads/master/MedicalSR.png" width="78%" height="400" >
+</p>
+
+<h3>🧰️ Multi Pose-Side-Shape Estimation: Multiple Body Pose, Point & Shape, Estimation(MoveNet, PoseNet, MediaPipe) </h3>  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/pose.png" width="90%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+</p>
+
+
+<h3>🧰️ AI for Health & Wellness: AI Fitness Fat-Loss Muscle Detection & Segmentation</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/1.gif" width="27%" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/2.gif" width="27%" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/33.gif" width="27%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AISoltani/labelbox/refs/heads/master/Muscle.png" width="88%" />
+</p>
+
+<h3>🧰️ Hybrid Approaches: Few-Shot Learning for Fashion Recommendation System </h3>  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/ScreenShot_20231103191154.png" width="88%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+</p>
+
+<h3>🧰️ YOLOv11-EdgeSuite: Universal Mobile Vision Toolkit Using YOLOv11 Models for Detection & Segmentation Tasks on Smart Phone </h3>  
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/AISoltani/Yolov11-Android-Tool-Kotlin/refs/heads/main/SCR1.jpg" width="27%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://raw.githubusercontent.com/AISoltani/Yolov11-Android-Tool-Kotlin/refs/heads/main/SCR2.jpg" width="27%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://raw.githubusercontent.com/AISoltani/Yolov11-Android-Tool-Kotlin/refs/heads/main/SRC3.jpg" width="27%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+</p>
+
+<h3>🧰️ Few-Shot Object Density HeatMap Generator </h3>  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AISoltani/labelbox/refs/heads/master/HeatMap.png" width="78%" height="400" />
+</p>
+
+<h3>🧰️ Real-Time Colormap-Invariant Thermal Object Detection with a Hybrid YOLO–Transformer </h3>  
+
+<p align="center">
+  <img src="https://github.com/AISoltani/labelbox/blob/master/Thermal-DT.gif?raw=true" width="78%" >
+</p>
+
+<h3>🧰️ Scable High-Resolution Object Detection Using Sentinel Satellite Imagery </h3>  
+
+<p align="center">
+  <img src="https://github.com/AISoltani/labelbox/blob/master/Sentinel.gif?raw=true" width="48%" >
+</p>
+
+<h1 font-weight="bold">
+  📮 How to reach me
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
+</h1>
+<div style="display: inline_block"><br>
+  <img align="right" alt="Bruna-pic" height="200" style="border-radius:50px;"
+    src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/final.png">
+ </div>
+<p align='center'>
+  <a href="amirsoltani.os@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+   <a href="https://www.linkedin.com/in/amir-soltani-aisoltani-79838684/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.kaggle.com/aisoltani" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-0078d4?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+  </a>
+  <a href="https://x.com/AISoltani" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+<!--   <a href="https://t.me/AI_ISII">
+    <img src="https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a> -->
+</p>
+ 
+ 
